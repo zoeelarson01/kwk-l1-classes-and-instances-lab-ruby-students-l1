@@ -1,4 +1,3 @@
-
 # Classes And Instances Lab Ruby
 
 ## Objectives
@@ -32,4 +31,4 @@ Under your `Person` class definition, create two people in local variables, `ade
 
 When you're done, submit the lab with `learn submit`.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/classes-and-instances-lab-ruby' title='Classes And Instances Lab Ruby'>Classes And Instances Lab Ruby</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Classes And Instances Lab Ruby</p>
