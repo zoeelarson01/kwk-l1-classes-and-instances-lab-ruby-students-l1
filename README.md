@@ -11,7 +11,7 @@ This lab is all about defining classes and instantiating instances.
 
 ## Instructions
 
-Open this lab with `learn open` and run your tests with `learn`.
+Open this lab and run your tests with `learn`.
 
 ### 1. Define `Dog` in `lib/dog.rb`
 
